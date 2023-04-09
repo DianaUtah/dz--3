@@ -1,0 +1,19 @@
+firstName: Michael
+lastName: Wats
+age: 21
+gender: male
+email: mi.wats@example.com
+phone:
+  type: mobile
+  number: "+1 444-444-4444"
+address:
+  street: 123 Main St
+  city: Anytown
+  state: CA
+  zip: "12345"
+courses:
+  - Art
+  - English
+  - History
+gpa: 3.0
+isGraduating: true

@@ -1,0 +1,24 @@
+<student>
+  <firstName>Taylor</firstName>
+  <lastName>Croft</lastName>
+  <age>23</age>
+  <gender>male</gender>
+  <email>taycroft1@example.com</email>
+  <phone>
+    <type>mobile</type>
+    <number>+1 888-888-8888</number>
+  </phone>
+  <address>
+    <street>123 Main St</street>
+    <city>Anytown</city>
+    <state>CA</state>
+    <zip>12345</zip>
+  </address>
+  <courses>
+    <course>Math</course>
+    <course>Physic</course>
+    <course>History</course>
+  </courses>
+  <gpa>3.5</gpa>
+  <isGraduating>true</isGraduating>
+</student>
