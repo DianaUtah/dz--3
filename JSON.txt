@@ -1,0 +1,20 @@
+{
+  "firstName": "Jessica",
+  "lastName": "Parker",
+  "age": 20,
+  "gender": "female",
+  "email": "jess.parker@example.com",
+  "phone": {
+    "type": "mobile",
+    "number": "+1 555-555-5555"
+  },
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "12345"
+  },
+  "courses": ["Math", "English", "History"],
+  "gpa": 3.5,
+  "isGraduating": true
+}
